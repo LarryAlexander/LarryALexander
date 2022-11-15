@@ -1,4 +1,4 @@
-### Hi there 👋, Name Larry Alexander (LA)
+### Hi there 👋, Name Larry Alexander (LATHEKID)
 #### I'm a Flutter Developer at Adavanced Computer & Network Concept
 I started off with Graphic Design I never thought I would end up a coder! Now I'm always poking and prodding and try to figure out ways to improve not only myself but whatever project I'm in.  
 
