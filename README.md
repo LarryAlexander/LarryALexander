@@ -1,5 +1,5 @@
-### Hello World 👋, Name Larry Alexander (LA)
-#### I'm a Flutter Developer at Advanced Computer & Network Concept
+### Hi there 👋, Name Larry Alexander (LA)
+#### I'm a Flutter Developer at Adavanced Computer & Network Concept
 I started off with Graphic Design I never thought I would end up a coder! Now I'm always poking and prodding and try to figure out ways to improve not only myself but whatever project I'm in.  
 
 Skills: Flutter / Dart /Adobe Illustrator / Adobe Experience Design
@@ -14,7 +14,5 @@ Skills: Flutter / Dart /Adobe Illustrator / Adobe Experience Design
 - ⚡ Fun fact: Stadia was a great service! 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/LarryAlexander)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/LA_THEKID)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/LarryAlexander)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/LarryAlexander)  
