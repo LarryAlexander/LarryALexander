@@ -2,7 +2,7 @@
 
 **Software Engineer & Product Builder · Baltimore, Maryland**
 
-I build mobile apps, web products, and developer tools, with a focus on useful interfaces and local-first software. My background in graphic design shapes how I approach product development: understand the problem, make the experience clear, and carry the work through implementation, testing, and release.
+I am a software engineer and product builder with 6+ years of experience designing, developing, shipping, and supporting mobile applications. I build Apple-platform apps, web products, and developer tools, with a focus on useful interfaces and local-first software. My background in graphic design shapes how I approach product development: understand the problem, make the experience clear, and carry the work through implementation, testing, and release.
 
 [Email](mailto:larryalexander1997@icloud.com) · [LinkedIn](https://www.linkedin.com/in/larry-alexander-9a9bb280) · [Public repositories](https://github.com/LarryAlexander?tab=repositories&type=source)
 
@@ -12,7 +12,7 @@ I build mobile apps, web products, and developer tools, with a focus on useful i
 | --- | --- | --- |
 | **TeacherBox** | A local-first classroom toolbox for editable worksheets, lesson planning, classroom routines, and student-facing presentations. Teacher notes and answer keys stay separate from projected activities. | [Live test build](https://teacherbox.lathekid.chatgpt.site) |
 | **OpenWall** | An open-source household dashboard with a configurable corkboard, schedules, tasks, browser-local persistence, and offline support. Built with React, TypeScript, Vite, and Dexie. | [Live demo](https://larryalexander.github.io/OpenWall/) · [Source](https://github.com/LarryAlexander/OpenWall) |
-| **Jot** | A notes product centered on capturing ideas, organizing folders, searching, and writing with Markdown. Ongoing Apple-platform and web development. | [Public project & support](https://github.com/LarryAlexander/jot-support) |
+| **Jot** | A local-first notes app for iPhone and iPad, with Markdown, task planning, search, voice capture, widgets, and share extensions. Dedicated macOS and web experiences are in active development. | [Public project & support](https://github.com/LarryAlexander/jot-support) |
 | **PocketStickers** | An on-device iPhone sticker library and iMessage extension, with image import, subject lifting, editing, collections, and search. Built with SwiftUI, SwiftData, and VisionKit. | [Product & support](https://larryalexander.github.io/PocketStickers-site/) |
 | **Apple Docs Explorer** | A native macOS tool for browsing and searching locally installed Apple developer documentation, with a shared SQLite retrieval layer, CLI, and optional MCP server. | [Source & documentation](https://github.com/LarryAlexander/apple-docs-explorer) |
 | **PulseBoard** | An API uptime and latency monitoring project using Next.js, Firebase, automated checks, and Playwright testing. | [Source & documentation](https://github.com/LarryAlexander/PulseBoard) |
@@ -26,18 +26,24 @@ Mobile Software Developer / Product Designer · 2015–June 2026
 
 - Turned product and stakeholder requirements into mobile, web, and backend application features.
 - Worked across Swift/SwiftUI, Flutter/Dart, and Firebase, from interface design and implementation through testing, debugging, and maintenance.
+- Managed Firebase environments supporting applications with 500+ active users across Authentication, Firestore, cloud services, and backend integrations.
 - Supported application releases through App Store Connect and TestFlight, and produced product requirements, technical documentation, and release guidance.
 - Communicated technical decisions and project progress with developers and non-technical stakeholders.
+
+**Kennedy Krieger Institute**  
+Classroom Assistant, Special Education · August 2026–Present
+
+Support student learning through communication, organization, and collaboration in a specialized educational environment, drawing on a technology and STEM-education background.
 
 Earlier work includes website development for the **Urban Business Center** and website, communications, and technology support for the **Home Sweet Home Foundation**.
 
 ## Technical skills
 
-- **Apple platforms:** Swift, SwiftUI, UIKit, Xcode
+- **Apple platforms:** Swift, SwiftUI, UIKit, SwiftData, VisionKit, App Groups, widgets, share extensions, iMessage extensions, Xcode, App Store Connect, TestFlight
 - **Cross-platform mobile:** Dart, Flutter
 - **Web:** TypeScript, JavaScript, React, Next.js, HTML, CSS
-- **Data & backend:** Firebase, Firestore, SQLite, IndexedDB, Dexie, REST APIs
-- **Tools & verification:** Python, Git, GitHub Actions, Docker, Playwright
+- **Data & backend:** Firebase Authentication, Firestore, Firebase Functions, SQLite/Drift, IndexedDB, Dexie, REST APIs
+- **Tools & verification:** Python, Git, GitHub Actions, Docker, Playwright, MCP
 - **Product & design:** UI/UX design, requirements, prototyping, technical documentation, release support
 
 ## Current focus
