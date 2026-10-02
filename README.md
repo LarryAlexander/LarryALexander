@@ -6,18 +6,53 @@ I am a software engineer and product builder with 6+ years of experience designi
 
 [Email](mailto:larryalexander1997@icloud.com) · [LinkedIn](https://www.linkedin.com/in/larry-alexander-9a9bb280) · [Public repositories](https://github.com/LarryAlexander?tab=repositories&type=source)
 
-## Selected projects
+## Current projects
+
+### OpenWall — Family management dashboard
+
+An open-source, offline-first family dashboard for hardware people already own. A configurable corkboard brings schedules, household tasks, routines, meal planning, groceries, weekly planning, and photos into one place. Built with React, TypeScript, Vite, and Dexie, with browser-local storage and explicit backup/restore. Cross-device synchronization is a future development direction.
+
+**Status:** Public MVP; household validation is ongoing work.  
+[Try OpenWall](https://larryalexander.github.io/OpenWall/) · [Explore the source](https://github.com/LarryAlexander/OpenWall)
+
+### TeacherBox — Teacher toolbox
+
+A local-first toolbox focused on elementary and middle-school teachers, with room to adapt activities for high school. Teachers can create and edit worksheets, vocabulary activities, math practice, reading questions, flashcards, lesson plans, and classroom routines. Print, copy, save, and presentation workflows keep teacher notes and answer keys separate from student-facing material.
+
+**Status:** Public test build.  
+[Try TeacherBox](https://teacherbox.lathekid.chatgpt.site)
+
+### Wrestle Card — Independent wrestling profiles & discovery
+
+A platform in development for independent wrestlers, promoters, and fans. The vision combines the presentation and personality of wrestling with the career profiles and statistical storytelling of sports platforms. Current work includes wrestler cards, private drafts and deliberate public sharing, talent discovery, and promotion/show workflows. Booking coordination, richer career evidence, and ranking boards are later roadmap stages.
+
+**Stack:** Next.js, React, TypeScript, Firebase.  
+**Status:** Private testing; public preview to come.
+
+### MacCleanerGUI — Native Mac storage investigator
+
+A SwiftUI macOS utility inspired by running out of storage on a base-model Mac mini. It helps investigate selected folders, understand storage usage, attribute files to applications, and review narrowly scoped cleanup candidates. The design emphasizes local processing, explicit selection, transparent measurements, and moving approved files to Finder Trash.
+
+**Status:** Working development app; name and release plans are still evolving. Public preview to come.
+
+### Jot (Jot It Down) — Local-first notes & productivity
+
+An Apple-platform notes and productivity product with Markdown, task planning, search, audio capture, widgets, and share extensions. I am preparing a major update focused on stability, expanded functionality, and a dedicated native macOS experience, alongside web work.
+
+Upcoming development includes an optional ChatGPT account connection for AI features. That connection is in development and subject to release validation.
+
+**Stack:** Swift, SwiftUI, native Apple frameworks.  
+[Product website](https://jot-it-down.com/) · [Public support project](https://github.com/LarryAlexander/jot-support)
+
+## More product work
 
 | Project | What I built | Explore |
 | --- | --- | --- |
-| **TeacherBox** | A local-first classroom toolbox for editable worksheets, lesson planning, classroom routines, and student-facing presentations. Teacher notes and answer keys stay separate from projected activities. | [Live test build](https://teacherbox.lathekid.chatgpt.site) |
-| **OpenWall** | An open-source household dashboard with a configurable corkboard, schedules, tasks, browser-local persistence, and offline support. Built with React, TypeScript, Vite, and Dexie. | [Live demo](https://larryalexander.github.io/OpenWall/) · [Source](https://github.com/LarryAlexander/OpenWall) |
-| **Jot** | A local-first notes app for iPhone and iPad, with Markdown, task planning, search, voice capture, widgets, and share extensions. Dedicated macOS and web experiences are in active development. | [Public project & support](https://github.com/LarryAlexander/jot-support) |
 | **PocketStickers** | An on-device iPhone sticker library and iMessage extension, with image import, subject lifting, editing, collections, and search. Built with SwiftUI, SwiftData, and VisionKit. | [Product & support](https://larryalexander.github.io/PocketStickers-site/) |
 | **Apple Docs Explorer** | A native macOS tool for browsing and searching locally installed Apple developer documentation, with a shared SQLite retrieval layer, CLI, and optional MCP server. | [Source & documentation](https://github.com/LarryAlexander/apple-docs-explorer) |
 | **PulseBoard** | An API uptime and latency monitoring project using Next.js, Firebase, automated checks, and Playwright testing. | [Source & documentation](https://github.com/LarryAlexander/PulseBoard) |
 
-TeacherBox is a public test build, OpenWall is a public MVP, and Apple Docs Explorer is an early public project. Product and support links provide a public entry point for projects whose application source is private.
+Apple Docs Explorer is an early public project. Product and support links provide a public entry point for projects whose application source is private.
 
 ## Experience
 
@@ -48,6 +83,6 @@ Earlier work includes website development for the **Urban Business Center** and 
 
 ## Current focus
 
-Building practical tools for classrooms, households, and personal productivity; improving local-first experiences; and developing native Apple apps alongside web products.
+Building tools for family organization, classrooms, independent wrestling, and personal productivity; improving local-first experiences; and preparing the next Jot release.
 
 For software development, product collaboration, or project questions, [get in touch](mailto:larryalexander1997@icloud.com).
