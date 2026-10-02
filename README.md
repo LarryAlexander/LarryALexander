@@ -61,7 +61,7 @@ Mobile Software Developer / Product Designer · 2015–June 2026
 
 - Turned product and stakeholder requirements into mobile, web, and backend application features.
 - Worked across Swift/SwiftUI, Flutter/Dart, and Firebase, from interface design and implementation through testing, debugging, and maintenance.
-- Managed Firebase environments supporting applications with 500+ active users across Authentication, Firestore, cloud services, and backend integrations.
+- Managed Firebase environments across Authentication, Firestore, cloud services, and backend integrations.
 - Supported application releases through App Store Connect and TestFlight, and produced product requirements, technical documentation, and release guidance.
 - Communicated technical decisions and project progress with developers and non-technical stakeholders.
 
